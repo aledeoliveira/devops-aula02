@@ -1,2 +1,3 @@
 # devops-aula02
-Will Smith - Denzel Washington - KEVIN HART
+Will Smith - Cuba Gooding Jr - KEVIN HART - Terry Crews
+
